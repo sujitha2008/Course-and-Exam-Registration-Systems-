@@ -55,7 +55,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="1115" height="866" alt="image" src="https://github.com/user-attachments/assets/71edfc47-03b8-4418-b38f-ffe506532c5b" />
 
 # COMMUNICTION DIAGRAM:
 
