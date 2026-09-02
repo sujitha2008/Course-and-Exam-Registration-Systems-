@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040436
+# Name:Sujitha S
+# Date:02-09-26
 
 
 # AIM:
@@ -39,11 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+<img width="1213" height="875" alt="image" src="https://github.com/user-attachments/assets/db2827b5-ddb4-45c1-a530-fd9c0cd83386" />
 
 # CLASS DIAGRAM
 
